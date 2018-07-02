@@ -21,7 +21,7 @@ public class SeleniumTest_modular {
 	
 	public static void setBrowser() {	 
 		
-		browser = "Firefox";
+		browser = "Chrome";
 	    
 	}
 		
